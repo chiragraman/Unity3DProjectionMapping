@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Homography_Diffuse.shader">
+    <Files>
+      <File FileName="Assets/Scripts/Homography.cs" Line="15" Column="32" />
+      <File FileName="Assets/Scripts/SelectionManager.cs" Line="35" Column="26" />
+      <File FileName="Assets/Scripts/DynamicController.cs" Line="23" Column="59" />
+      <File FileName="Assets/Shaders/Homography.shader" Line="8" Column="26" />
+      <File FileName="Assets/Shaders/Homography_Diffuse.shader" Line="10" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
