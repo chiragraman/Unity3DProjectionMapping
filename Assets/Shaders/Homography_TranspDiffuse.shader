@@ -1,9 +1,19 @@
-// Upgrade NOTE: replaced 'PositionFog()' with multiply of UNITY_MATRIX_MVP by position
-// Upgrade NOTE: replaced 'V2F_POS_FOG' with 'float4 pos : SV_POSITION'
+//Copyright (C) 2012 Chirag Raman
 
-// Upgrade NOTE: replaced 'PositionFog()' with multiply of UNITY_MATRIX_MVP by position
+//This file is part of Projection-Mapping-in-Unity3D.
 
-// Upgrade NOTE: replaced 'V2F_POS_FOG' with 'float4 pos : SV_POSITION'
+//Projection-Mapping-in-Unity3D is free software: you can redistribute it and/or modify
+//it under the terms of the GNU General Public License as published by
+//the Free Software Foundation, either version 3 of the License, or
+//(at your option) any later version.
+
+//Projection Mapping in Unity3D is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//GNU General Public License for more details.
+
+//You should have received a copy of the GNU General Public License
+//along with Projection-Mapping-in-Unity3D.  If not, see <http://www.gnu.org/licenses/>
 
 Shader "Custom/HomographyOren-NayarTransparentDiffuse" {
 	Properties {

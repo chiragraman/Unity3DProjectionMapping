@@ -1,5 +1,5 @@
 /*
-Copyright (C) 2011,2012 Chirag Raman
+Copyright (C) 2012 Chirag Raman
 
 This file is part of Projection-Mapping-in-Unity3D.
 
