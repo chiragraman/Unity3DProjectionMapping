@@ -3,7 +3,7 @@
 Greetings! You have stumbled upon my projection mapping experiments in Unity 3D.
 The project contains scripts and shaders used to implement homographic transformations natively within Unity 3D. 
 
-##useful links:
+##useful links
 
 1. Quad-warping: http://bit.ly/MX9Uyn
 
